@@ -4,7 +4,7 @@
   "description": "A personal card for RUTAGENGWA Asante Bruce(@RUTAGENGWA-ASANTE-BRUCE)",
   "main": "card.js",
   "bin": {
-    "anmol": "./card.js"
+    "rutagengwabruce": "./card.js"
   },
   "repository": {
     "type": "git",
