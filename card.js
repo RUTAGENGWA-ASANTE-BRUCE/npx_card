@@ -68,7 +68,7 @@ const data = {
     handle: chalk.white("@RUTAGENGWA-ASANTE-BRUCE"),
     work: `${chalk.white("Full stack")} ${chalk
         .hex("#2b82b2")
-        .bold("Software Enginner")}`,
+        .bold("Software Engineer")}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("rutagengwabruce"),
     github: chalk.gray("https://github.com/") + chalk.green("RUTAGENGWA-ASANTE-BRUCE"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("bruce-asante-2b072822b"),
