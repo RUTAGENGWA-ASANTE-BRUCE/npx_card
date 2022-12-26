@@ -11,7 +11,11 @@ And get to know me in unique style.
 
 The final output might look something like this:]
 
-![image](https://github.com/RUTAGENGWA-ASANTE-BRUCE/npx_card/blob/master/demo.gif)
+### SCREENSHOT
+
+The final output might look something like this:
+
+![image](https://github.com/RUTAGENGWA-ASANTE-BRUCE/npx_card/blob/master/demo.png)
 
 
 <hr/>
@@ -19,3 +23,4 @@ The final output might look something like this:]
 ##### STEPS TO CREATE YOUR OWN
 The article written by our friend @jackboberg. I used the same for the reference to deploy the package. 
 [Write a Simple npx Business Card](https://studioelsa.se/blog/open-source-oss-npx-business-card). 
+
