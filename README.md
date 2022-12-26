@@ -15,7 +15,7 @@ The final output might look something like this:]
 
 The final output might look something like this:
 
-![image](https://github.com/RUTAGENGWA-ASANTE-BRUCE/npx_card/blob/master/demo.gif)
+![image](https://github.com/RUTAGENGWA-ASANTE-BRUCE/npx_card/blob/master/demo.jpg)
 
 
 <hr/>
